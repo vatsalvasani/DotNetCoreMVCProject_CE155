@@ -1,0 +1,38 @@
+﻿@model Admin
+@{
+    ViewData["Title"] = "Index";
+    Layout = null;
+}
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Login</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site1.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/SuperMarket_Management_System1.styles.css" asp-append-version="true" />
+</head>
+<br></br>
+<br></br>
+<br></br>
+
+
+        <div class="login-form">
+        <form asp-action="Login" autocomplete="off" asp-controller="Account" method="post">
+        <h1>Login</h1>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="content">
+                    <div class="input-field">
+                <input asp-for="Id" class="form-control" placeholder="Email" />
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <div class="input-field">
+                <input asp-for="Password" class="form-control" placeholder="Password" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                </div>
+                <div class="action">
+                        <input type="submit" value="Submit" class="btn btn-primary w-100" />
+                    </div>
+        </form>
+        </div>

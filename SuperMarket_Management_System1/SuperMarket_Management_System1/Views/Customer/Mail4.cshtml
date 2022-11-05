@@ -1,0 +1,45 @@
+﻿@model IEnumerable<SuperMarket_Management_System1.Models.Customer>
+
+@{
+    ViewData["Title"] = "Mail For Platinium";
+}
+
+<div class="row">
+    <div class="col-md-6 offset-md-3">
+        <h1>Mail For Platinium</h1>
+        <form asp-action="Mail_3" autocomplete="off">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <br>
+            <div class="form-group">
+                @Html.Label("Enter Mail Subject")
+                @Html.TextBox("subject")
+            </div>
+            <br>
+            <div class="form-group">
+                @Html.Label("Enter Mail Text")
+                @Html.TextBox("mailtext")
+            </div>
+            <br>
+           
+
+            <div class="row mt-2">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="submit" value="Submit" class="btn btn-primary w-100" />
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <a asp-action="Index" class="btn btn-secondary  w-100">View All</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }

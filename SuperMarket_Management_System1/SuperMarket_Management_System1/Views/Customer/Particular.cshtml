@@ -1,0 +1,43 @@
+﻿@model SuperMarket_Management_System1.Models.Customer
+
+@{
+    ViewData["Title"] = "Particular Customer";
+}
+
+<div class="row">
+    <div class="col-md-6 offset-md-3">
+        <h1>Particular Customer</h1>
+        <form asp-action="Particular1" autocomplete="off">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <fieldset class="control-label">
+                    Customer Type
+                    <select asp-for="Type" class="form-control">
+                        <option value="Silver">Silver</option>
+                        <option value="Golden">Golden</option>
+                        <option value="Platinium">Platinium</option>
+                    </select>
+                </fieldset>
+            </div>
+
+            <div class="row mt-2">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="submit" value="Show" class="btn btn-primary w-100" />
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <a asp-action="Index" class="btn btn-secondary  w-100">View All</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }

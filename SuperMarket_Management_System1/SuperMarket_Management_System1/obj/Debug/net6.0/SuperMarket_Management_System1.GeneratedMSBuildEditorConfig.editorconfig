@@ -1,0 +1,128 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SuperMarket_Management_System1
+build_property.RootNamespace = SuperMarket_Management_System1
+build_property.ProjectDir = C:\VATSAL VASANI\DDU SEM 5\DDU Sem 5\WAD\PROJECT1\SuperMarket_Management_System1\SuperMarket_Management_System1\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\VATSAL VASANI\DDU SEM 5\DDU Sem 5\WAD\PROJECT1\SuperMarket_Management_System1\SuperMarket_Management_System1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Available_product/AddOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZhaWxhYmxlX3Byb2R1Y3RcQWRkT3JFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Available_product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZhaWxhYmxlX3Byb2R1Y3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Customer/AddOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQWRkT3JFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Customer/Mail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Customer/Mail1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTWFpbDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Customer/Mail2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTWFpbDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Customer/Mail3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTWFpbDMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Customer/Mail4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTWFpbDQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Customer/Mail_1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTWFpbF8xLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Customer/Mail_2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTWFpbF8yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Customer/Mail_3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTWFpbF8zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Customer/Particular.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcUGFydGljdWxhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Customer/Particular1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcUGFydGljdWxhcjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Shared/home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGhvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/transaction1/AddOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdHJhbnNhY3Rpb24xXEFkZE9yRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/transaction1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdHJhbnNhY3Rpb24xXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/transaction1/Particular.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdHJhbnNhY3Rpb24xXFBhcnRpY3VsYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/transaction1/Particular1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdHJhbnNhY3Rpb24xXFBhcnRpY3VsYXIxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VATSAL VASANI/DDU SEM 5/DDU Sem 5/WAD/PROJECT1/SuperMarket_Management_System1/SuperMarket_Management_System1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ewxwrfprwy
