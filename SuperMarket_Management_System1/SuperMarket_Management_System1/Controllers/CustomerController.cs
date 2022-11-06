@@ -93,7 +93,7 @@ namespace SuperMarket_Management_System1.Controllers
             //samir56@ethereal.email
             
             var message = new MimeMessage();
-            message.From.Add(new MailboxAddress("SuperMarket", "vatsalvasani22882@gmail.com"));
+            message.From.Add(new MailboxAddress("SuperMarket", "your mail"));
 
             foreach (var m in s)
             {
@@ -108,7 +108,7 @@ namespace SuperMarket_Management_System1.Controllers
             using (var Client = new SmtpClient())
             {
                 Client.Connect("smtp.gmail.com", 587, false);
-                Client.Authenticate("vatsalvasani22882@gmail.com", "ipauqztiqejugsku");
+                Client.Authenticate("your mail", "your app password");
                 Client.Send(message);
                 Client.Disconnect(true);
             
@@ -127,7 +127,7 @@ namespace SuperMarket_Management_System1.Controllers
             //samir56@ethereal.email
 
             var message = new MimeMessage();
-            message.From.Add(new MailboxAddress("SuperMarket", "vatsalvasani22882@gmail.com"));
+            message.From.Add(new MailboxAddress("SuperMarket", "your mail"));
 
             foreach (var m in s)
             {
@@ -142,7 +142,7 @@ namespace SuperMarket_Management_System1.Controllers
             using (var Client = new SmtpClient())
             {
                 Client.Connect("smtp.gmail.com", 587, false);
-                Client.Authenticate("vatsalvasani22882@gmail.com", "ipauqztiqejugsku");
+                Client.Authenticate("your mail", "your password");
                 Client.Send(message);
                 Client.Disconnect(true);
 
@@ -160,7 +160,7 @@ namespace SuperMarket_Management_System1.Controllers
             //samir56@ethereal.email
 
             var message = new MimeMessage();
-            message.From.Add(new MailboxAddress("SuperMarket", "vatsalvasani22882@gmail.com"));
+            message.From.Add(new MailboxAddress("SuperMarket", "your mail"));
 
             foreach (var m in s)
             {
@@ -175,7 +175,7 @@ namespace SuperMarket_Management_System1.Controllers
             using (var Client = new SmtpClient())
             {
                 Client.Connect("smtp.gmail.com", 587, false);
-                Client.Authenticate("vatsalvasani22882@gmail.com", "ipauqztiqejugsku");
+                Client.Authenticate("your mail", "your password");
                 Client.Send(message);
                 Client.Disconnect(true);
 
@@ -192,7 +192,7 @@ namespace SuperMarket_Management_System1.Controllers
             //samir56@ethereal.email
 
             var message = new MimeMessage();
-            message.From.Add(new MailboxAddress("SuperMarket", "vatsalvasani22882@gmail.com"));
+            message.From.Add(new MailboxAddress("SuperMarket", "your mail"));
 
             foreach (var m in s)
             {
@@ -207,7 +207,7 @@ namespace SuperMarket_Management_System1.Controllers
             using (var Client = new SmtpClient())
             {
                 Client.Connect("smtp.gmail.com", 587, false);
-                Client.Authenticate("vatsalvasani22882@gmail.com", "ipauqztiqejugsku");
+                Client.Authenticate("your mail", "your password");
                 Client.Send(message);
                 Client.Disconnect(true);
 
