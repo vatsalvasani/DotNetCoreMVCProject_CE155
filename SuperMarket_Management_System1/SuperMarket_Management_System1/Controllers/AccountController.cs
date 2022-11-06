@@ -32,7 +32,7 @@ namespace SuperMarket_Management_System1.Controllers
         public async Task<ActionResult> Login([Bind("Id,Password")] Admin adm)
         {
 
-            if (adm.Password == "Vats@2ll" && adm.Id == "vatsalvasani22882@gmail.com")
+            if (adm.Password == "xxxxx" && adm.Id == "zzzzzz")
             {
                     //ModelState.AddModelError("Password", "Invalid login attempt.");
                 return View("home");
